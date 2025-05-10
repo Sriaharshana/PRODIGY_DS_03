@@ -1,7 +1,8 @@
 # PRODIGY_DS_03
 🐦 Task 3: Twitter Sentiment Analysis
+
 📌 Objective
-Analyze Twitter data to:
+
 
 Predict sentiment (Positive, Negative, Neutral) using TextBlob
 
