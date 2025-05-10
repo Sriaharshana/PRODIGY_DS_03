@@ -44,3 +44,7 @@ Shows original vs predicted sentiment counts
 🟢 Visualize frequent words in positive & negative tweets
 
 📊 Measure accuracy by comparing predicted vs original sentiments
+
+For Queries contact:http://www.linkedin.com/in/sriaharshana14
+
+Output:https://drive.google.com/file/d/1u6BmIlgRudLIEF02kcPK2FJPqb6HP6ns/view?usp=sharing
